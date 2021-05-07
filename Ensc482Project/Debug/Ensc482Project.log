@@ -1,0 +1,75 @@
+﻿  DijkstraShortestPathAlg.cpp
+  Ensc482Project.cpp
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(198): warning C4244: 'initializing': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(198): warning C4244: 'initializing': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(198): warning C4838: conversion from '_Ty1' to 'float' requires a narrowing conversion
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(198): warning C4838: conversion from '_Ty2' to 'float' requires a narrowing conversion
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(235): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(237): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(239): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(243): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(246): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(254): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(273): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(285): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(287): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(454): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(461): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(521): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(525): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(526): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(528): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(537): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(550): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(551): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(633): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(674): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(677): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(677): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(678): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(679): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(692): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(692): warning C4244: '=': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(693): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(693): warning C4244: '=': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(698): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(720): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(722): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(724): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(739): warning C4102: 'end': unreferenced label
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(747): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(749): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(752): warning C4018: '<': signed/unsigned mismatch
+C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Ensc482Project\Ensc482Project.cpp(758): warning C4018: '<': signed/unsigned mismatch
+  Graph.cpp
+  YenTopKShortestPathsAlg.cpp
+  Generating Code...
+  Ensc482Project.vcxproj -> C:\Users\rwebb\source\repos\Ensc482ProjectFinal\Debug\Ensc482Project.exe
